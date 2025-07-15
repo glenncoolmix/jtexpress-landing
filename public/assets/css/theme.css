@@ -18471,3 +18471,44 @@ ul {
 -----------------------------------------------*/
 
 /*# sourceMappingURL=theme.css.map */
+
+.whatsapp-link {
+  background: #007f0c;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 32px;
+    gap: 5px;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none !important;
+}
+.whatsapp-link:hover {
+  color: #fff !important;
+  background: #01620d !important;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none !important;
+}
+.whatsapp-chat {
+    position: fixed;
+    width: auto;
+    min-width: 50px;
+    height: auto;
+    min-height: 10px;
+    right: 25px;
+    background-color: green;
+    border-radius: 25px;
+    color: #fff;
+    z-index: 9999;
+    bottom: 25px;
+}
+.whatsapp-chat a, .whatsapp-chat a:visited {
+    font-size: 1.2em;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    gap: 10px;
+    text-decoration: none;
+    padding: 12px 7px;
+}

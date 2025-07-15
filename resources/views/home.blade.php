@@ -10,7 +10,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>courier | Landing, Responsive &amp; Business Templatee</title>
+    <title>JTExpress Courier | Courier Service</title>
 
 
     <!-- ===============================================-->
@@ -464,7 +464,39 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section>
+        <section>
+
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-5 col-xl-4">
+              <img src="assets/img/illustrations/callback.png" alt="..." />
+              <h5 class="text-danger">REQUEST A CALLBACK</h5>
+              <h2>We will contact in the shortest time.</h2>
+              <p class="text-muted">Monday to Friday, 9am-5pm.</p>
+              <div class="text-center">
+                <a href="https://api.whatsapp.com/send?phone={{ env('WHATSAPP_NUMBER') }}&text=Hi, good day!
+
+I would like to inquire about registering or subscribing to JTEx Courier services. Could you please share the requirements, pricing, and the process to get started?
+
+Thank you very much. Looking forward to your response." class="whatsapp-link" target="_blank">
+                  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 24 24" enableBackground="new 0 0 24 24;" width="25px" height="25px">
+                      <g id="WA_Logo">
+                          <g>
+                              <path d="M20.463,3.488C18.217,1.24,15.231,0.001,12.05,0    C5.495,0,0.16,5.334,0.157,11.892c-0.001,2.096,0.547,4.142,1.588,5.946L0.057,24l6.304-1.654    c1.737,0.948,3.693,1.447,5.683,1.448h0.005c6.554,0,11.89-5.335,11.893-11.893C23.944,8.724,22.708,5.735,20.463,3.488z     M12.05,21.785h-0.004c-1.774,0-3.513-0.477-5.031-1.378l-0.361-0.214l-3.741,0.981l0.999-3.648l-0.235-0.374    c-0.99-1.574-1.512-3.393-1.511-5.26c0.002-5.45,4.437-9.884,9.889-9.884c2.64,0,5.122,1.03,6.988,2.898    c1.866,1.869,2.893,4.352,2.892,6.993C21.932,17.351,17.498,21.785,12.05,21.785z M17.472,14.382    c-0.297-0.149-1.758-0.868-2.031-0.967c-0.272-0.099-0.47-0.149-0.669,0.148s-0.767,0.967-0.941,1.166    c-0.173,0.198-0.347,0.223-0.644,0.074c-0.297-0.149-1.255-0.462-2.39-1.475c-0.883-0.788-1.48-1.761-1.653-2.059    s-0.018-0.458,0.13-0.606c0.134-0.133,0.297-0.347,0.446-0.521C9.87,9.97,9.919,9.846,10.019,9.647    c0.099-0.198,0.05-0.372-0.025-0.521C9.919,8.978,9.325,7.515,9.078,6.92c-0.241-0.58-0.486-0.501-0.669-0.51    C8.236,6.401,8.038,6.4,7.839,6.4c-0.198,0-0.52,0.074-0.792,0.372c-0.272,0.298-1.04,1.017-1.04,2.479    c0,1.463,1.065,2.876,1.213,3.074c0.148,0.198,2.095,3.2,5.076,4.487c0.709,0.306,1.263,0.489,1.694,0.626    c0.712,0.226,1.36,0.194,1.872,0.118c0.571-0.085,1.758-0.719,2.006-1.413c0.248-0.694,0.248-1.29,0.173-1.413    C17.967,14.605,17.769,14.531,17.472,14.382z" fill="currentColor" />
+                          </g>
+                      </g>
+                  </svg>
+                  <span>Whatsapp</span>
+                </a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end of .container-->
+
+      </section>
+      {{-- <section>
 
         <div class="container">
           <div class="row justify-content-center">
@@ -496,16 +528,26 @@
         </div>
         <!-- end of .container-->
 
-      </section>
+      </section> --}}
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
 
-
+        <div class="whatsapp-chat">
+            <a href="https://api.whatsapp.com/send?phone={{ env('WHATSAPP_NUMBER') }}" target="_blank" aria-label="Whatsapp chat">
+                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 24 24" enableBackground="new 0 0 24 24;" width="25px" height="25px">
+                      <g id="WA_Logo">
+                          <g>
+                              <path d="M20.463,3.488C18.217,1.24,15.231,0.001,12.05,0    C5.495,0,0.16,5.334,0.157,11.892c-0.001,2.096,0.547,4.142,1.588,5.946L0.057,24l6.304-1.654    c1.737,0.948,3.693,1.447,5.683,1.448h0.005c6.554,0,11.89-5.335,11.893-11.893C23.944,8.724,22.708,5.735,20.463,3.488z     M12.05,21.785h-0.004c-1.774,0-3.513-0.477-5.031-1.378l-0.361-0.214l-3.741,0.981l0.999-3.648l-0.235-0.374    c-0.99-1.574-1.512-3.393-1.511-5.26c0.002-5.45,4.437-9.884,9.889-9.884c2.64,0,5.122,1.03,6.988,2.898    c1.866,1.869,2.893,4.352,2.892,6.993C21.932,17.351,17.498,21.785,12.05,21.785z M17.472,14.382    c-0.297-0.149-1.758-0.868-2.031-0.967c-0.272-0.099-0.47-0.149-0.669,0.148s-0.767,0.967-0.941,1.166    c-0.173,0.198-0.347,0.223-0.644,0.074c-0.297-0.149-1.255-0.462-2.39-1.475c-0.883-0.788-1.48-1.761-1.653-2.059    s-0.018-0.458,0.13-0.606c0.134-0.133,0.297-0.347,0.446-0.521C9.87,9.97,9.919,9.846,10.019,9.647    c0.099-0.198,0.05-0.372-0.025-0.521C9.919,8.978,9.325,7.515,9.078,6.92c-0.241-0.58-0.486-0.501-0.669-0.51    C8.236,6.401,8.038,6.4,7.839,6.4c-0.198,0-0.52,0.074-0.792,0.372c-0.272,0.298-1.04,1.017-1.04,2.479    c0,1.463,1.065,2.876,1.213,3.074c0.148,0.198,2.095,3.2,5.076,4.487c0.709,0.306,1.263,0.489,1.694,0.626    c0.712,0.226,1.36,0.194,1.872,0.118c0.571-0.085,1.758-0.719,2.006-1.413c0.248-0.694,0.248-1.29,0.173-1.413    C17.967,14.605,17.769,14.531,17.472,14.382z" fill="currentColor" />
+                          </g>
+                      </g>
+                  </svg>
+            </a>
+        </div>
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section id="findUs">
+      {{-- <section id="findUs">
 
         <div class="container">
           <div class="row justify-content-center">
@@ -540,7 +582,7 @@
         </div>
         <!-- end of .container-->
 
-      </section>
+      </section> --}}
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -632,15 +674,8 @@
 
         <div class="container">
           <div class="row justify-content-md-between justify-content-evenly py-4">
-            <div class="col-12 col-sm-8 col-md-6 col-lg-auto text-center text-md-start">
-              <p class="fs--1 my-2 fw-bold text-200">All rights Reserved &copy; Your Company, 2021</p>
-            </div>
-            <div class="col-12 col-sm-8 col-md-6">
-              <p class="fs--1 my-2 text-center text-md-end text-200"> Made with&nbsp;
-                <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="#F95C19" viewBox="0 0 16 16">
-                  <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
-                </svg>&nbsp;by&nbsp;<a class="fw-bold text-primary" href="https://themewagon.com/" target="_blank">ThemeWagon </a>
-              </p>
+            <div class="col-12 text-center">
+              <p class="fs--1 my-2 fw-bold text-200">All rights Reserved &copy; JT Express Courier, 2025</p>
             </div>
           </div>
         </div>
