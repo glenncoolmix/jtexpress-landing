@@ -3522,13 +3522,13 @@ fieldset:disabled .btn {
 
 .btn-primary:hover {
   color: #FFFEFE;
-  background-color: #d44e15;
+  background-color: #180fe7;
   border-color: #c74a14;
 }
 
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #FFFEFE;
-  background-color: #d44e15;
+  background-color: #180fe7;
   border-color: #c74a14;
   -webkit-box-shadow: 0 0 0 0 rgba(250, 116, 59, 0.5);
   box-shadow: 0 0 0 0 rgba(250, 116, 59, 0.5);
@@ -3727,13 +3727,13 @@ fieldset:disabled .btn {
 
 .btn-danger:hover {
   color: #FFFEFE;
-  background-color: #d44e15;
+  background-color: #180fe7;
   border-color: #c74a14;
 }
 
 .btn-check:focus + .btn-danger, .btn-danger:focus {
   color: #FFFEFE;
-  background-color: #d44e15;
+  background-color: #180fe7;
   border-color: #c74a14;
   -webkit-box-shadow: 0 0 0 0 rgba(250, 116, 59, 0.5);
   box-shadow: 0 0 0 0 rgba(250, 116, 59, 0.5);
