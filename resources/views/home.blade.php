@@ -48,18 +48,19 @@
               <li class="nav-item px-2"><a class="nav-link" href="#services">Our Services</a></li>
               {{-- <li class="nav-item px-2"><a class="nav-link" href="#findUs">Find Us</a></li> --}}
             </ul>
-            <div class="dropdown d-none d-lg-block">
+            {{-- <div class="dropdown d-none d-lg-block">
               <button class="btn bg-soft-warning ms-2" id="dropdownMenuButton1" type="submit" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-search text-warning"></i></button>
               <div class="dropdown-menu dropdown-menu-lg-end p-0 rounded" aria-labelledby="dropdownMenuButton1" style="top:55px">
                 <form>
                   <input class="form-control border-200" type="search" placeholder="Search" aria-label="Search" style="background:#FDF1DF;" />
                 </form>
               </div>
-            </div><a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="#contact-us">Contact Us</a>
-            <form class="d-flex my-3 d-block d-lg-none">
+            </div> --}}
+            <a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="#contact-us">Contact Us</a>
+            {{-- <form class="d-flex my-3 d-block d-lg-none">
               <input class="form-control me-2 border-200 bg-light" type="search" placeholder="Search" aria-label="Search" />
               <button class="btn btn-outline-primary" type="submit">Search</button>
-            </form>
+            </form> --}}
           </div>
         </div>
       </nav>
