@@ -55,7 +55,7 @@
                   <input class="form-control border-200" type="search" placeholder="Search" aria-label="Search" style="background:#FDF1DF;" />
                 </form>
               </div>
-            </div><a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="#!">Contact Us</a>
+            </div><a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="javascript:void(0);">Contact Us</a>
             <form class="d-flex my-3 d-block d-lg-none">
               <input class="form-control me-2 border-200 bg-light" type="search" placeholder="Search" aria-label="Search" />
               <button class="btn btn-outline-primary" type="submit">Search</button>
@@ -74,7 +74,7 @@
             <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-8">
               <h1 class="fw-normal fs-6 fs-xxl-7">A trusted provider of </h1>
               <h1 class="fw-bolder fs-6 fs-xxl-7 mb-2">courier services.</h1>
-              <p class="fs-1 mb-5">We deliver your products safely to <br />your home in a reasonable time. </p><a class="btn btn-primary me-2" href="#!" role="button">Get started<i class="fas fa-arrow-right ms-2"></i></a>
+              <p class="fs-1 mb-5">We deliver your products safely to <br />your home in a reasonable time. </p><a class="btn btn-primary me-2" href="javascript:void(0);" role="button">Get started<i class="fas fa-arrow-right ms-2"></i></a>
             </div>
           </div>
         </div>
@@ -566,9 +566,9 @@ Thank you very much. Looking forward to your response." class="whatsapp-link" ta
                       <p><i class="fas fa-phone-alt text-warning me-3"></i><span class="text-700">Monday - Friday: 10 am - 10pm<br/><span class="ps-4">Sunday: 11 am - 9pm  </span></span></p>
                       <p><i class="fas fa-envelope text-warning me-3"> </i><a class="text-700" href="mailto:vctung@outlook.com"> info@quriarbox.com</a></p>
                       <ul class="list-unstyled list-inline mt-5">
-                        <li class="list-inline-item"><a class="text-decoration-none" href="#!"><i class="fab fa-facebook-square fs-2"></i></a></li>
-                        <li class="list-inline-item"><a class="text-decoration-none" href="#!"><i class="fab fa-instagram-square fs-2"></i></a></li>
-                        <li class="list-inline-item"><a class="text-decoration-none" href="#!"><i class="fab fa-twitter-square fs-2"></i></a></li>
+                        <li class="list-inline-item"><a class="text-decoration-none" href="javascript:void(0);"><i class="fab fa-facebook-square fs-2"></i></a></li>
+                        <li class="list-inline-item"><a class="text-decoration-none" href="javascript:void(0);"><i class="fab fa-instagram-square fs-2"></i></a></li>
+                        <li class="list-inline-item"><a class="text-decoration-none" href="javascript:void(0);"><i class="fab fa-twitter-square fs-2"></i></a></li>
                       </ul>
                     </div>
                   </div>
@@ -636,25 +636,25 @@ Thank you very much. Looking forward to your response." class="whatsapp-link" ta
             <div class="col-6 col-sm-4 col-lg-2 mb-3 order-2 order-sm-1">
               <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Other links </h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-500" href="#!">Blogs</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Movers website</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Traffic Update</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Blogs</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Movers website</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Traffic Update</a></li>
               </ul>
             </div>
             <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
               <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif">Services</h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-500" href="#!">Corporate goods</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Artworks</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Documents</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Corporate goods</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Artworks</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Documents</a></li>
               </ul>
             </div>
             <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
               <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif"> Customer Care</h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-500" href="#!">About Us</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Contact US</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Get Update</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">About Us</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Contact US</a></li>
+                <li class="lh-lg"><a class="text-500" href="javascript:void(0);">Get Update</a></li>
               </ul>
             </div>
           </div>
