@@ -46,7 +46,7 @@
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
               <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="/">Home</a></li>
               <li class="nav-item px-2"><a class="nav-link" href="#services">Our Services</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#findUs">Find Us</a></li>
+              {{-- <li class="nav-item px-2"><a class="nav-link" href="#findUs">Find Us</a></li> --}}
             </ul>
             <div class="dropdown d-none d-lg-block">
               <button class="btn bg-soft-warning ms-2" id="dropdownMenuButton1" type="submit" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-search text-warning"></i></button>
@@ -55,7 +55,7 @@
                   <input class="form-control border-200" type="search" placeholder="Search" aria-label="Search" style="background:#FDF1DF;" />
                 </form>
               </div>
-            </div><a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="javascript:void(0);">Contact Us</a>
+            </div><a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="#contact-us">Contact Us</a>
             <form class="d-flex my-3 d-block d-lg-none">
               <input class="form-control me-2 border-200 bg-light" type="search" placeholder="Search" aria-label="Search" />
               <button class="btn btn-outline-primary" type="submit">Search</button>
@@ -464,7 +464,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-        <section>
+      <section class="py-7" id="contact-us" container-xl="container-xl">
 
         <div class="container">
           <div class="row justify-content-center">
