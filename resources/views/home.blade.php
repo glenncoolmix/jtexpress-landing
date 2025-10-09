@@ -285,7 +285,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Exceptional reliability!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">As a seller, I rely on timely deliveries to keep my customers happy. This courier service has been incredibly reliable, always delivering our products on time and in great condition.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1654110455429-cf322b40a906?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -303,7 +303,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Fast and efficient shipping!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">We’ve been using this courier service for months, and they’ve always been quick and efficient. Our customers receive their orders in a timely manner, and that’s been key to our growing success.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -321,7 +321,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Customer satisfaction guaranteed!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">As a seller, the speed and care of delivery are vital to maintaining a good reputation. This courier service has been outstanding, ensuring our products arrive at their destination promptly and safely.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1599566147214-ce487862ea4f?q=80&w=947&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -344,7 +344,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Excellent partnership!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">Working with this courier company has been a game-changer for my business. Their on-time delivery and professional service have helped improve our customer satisfaction ratings significantly.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1650462957489-1c104d090218?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -362,7 +362,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Trustworthy and fast service!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">We’ve been able to scale our business thanks to this courier service. They ensure that our products arrive quickly, which keeps our customers coming back for more.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1605504836193-e77d3d9ede8a?q=80&w=2063&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -380,7 +380,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">The perfect delivery partner!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">This courier service has never let us down. As an online seller, ensuring that my products arrive on time is crucial. They make the process easy and stress-free.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1661747675166-5cf96bd5d0dc?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -403,7 +403,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Reliable and fast shipping for our store!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">Our e-commerce platform has grown tremendously thanks to this courier service. They’ve been able to handle our increasing volume while maintaining excellent delivery times.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://images.unsplash.com/photo-1568822617270-2c1579f8dfe2?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -421,7 +421,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Consistently excellent service!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">We’ve partnered with this courier service for over a year, and their consistency has been key in helping us meet our delivery deadlines. They’re a vital part of our operation.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://plus.unsplash.com/premium_photo-1693258698597-1b2b1bf943cc?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
@@ -439,7 +439,7 @@
                       <div class="card-body" style="position: relative;">
                         <h5 class="mb-0 text-primary">Perfect for scaling our business!</h5>
                         <p class="card-text pt-3" style="min-height: 270px;">As a growing seller, we need a logistics partner who can keep up. This courier service has always provided excellent delivery speeds and reliability, which has helped us expand our reach.</p>
-                        <div class="d-xl-flex justify-content-between align-items-center" style="position: absolute; bottom: 15px;">
+                        <div class="" style="position: absolute; bottom: 15px;">
                           <div class="d-flex align-items-center mb-3"><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i></div>
                           <div class="d-flex align-items-center"><img class="img-fluid" style="height: 55px; border-radius: 32px; object-fit: cover; width: 55px;" src="https://plus.unsplash.com/premium_photo-1689562473471-6e736b8afe15?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
                             <div class="flex-1 ms-3">
