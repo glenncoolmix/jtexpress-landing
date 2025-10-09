@@ -95,7 +95,7 @@
           </div>
           <div class="row h-100 justify-content-center">
             <div class="col-md-6 pt-4 px-md-2 px-lg-3">
-              <div class="card h-100 px-lg-5 card-span">
+              <div class="card h-100 px-lg-3 card-span">
                 <div class="card-body d-flex flex-column justify-content-around">
                   <div class="text-center pt-5"><img class="img-fluid" src="assets/img/icons/services-1.svg" alt="..." />
                     <h5 class="my-4">Business Services</h5>
@@ -119,7 +119,7 @@
               </div>
             </div>
             <div class="col-md-6 pt-4 px-md-2 px-lg-3">
-              <div class="card h-100 px-lg-5 card-span">
+              <div class="card h-100 px-lg-3 card-span">
                 <div class="card-body d-flex flex-column justify-content-around">
                   <div class="text-center pt-5"><img class="img-fluid" src="assets/img/icons/services-2.svg" alt="..." />
                     <h5 class="my-4">Fulfillment</h5>
@@ -142,7 +142,7 @@
               </div>
             </div>
             {{-- <div class="col-md-4 pt-4 px-md-2 px-lg-3">
-              <div class="card h-100 px-lg-5 card-span">
+              <div class="card h-100 px-lg-3 card-span">
                 <div class="card-body d-flex flex-column justify-content-around">
                   <div class="text-center pt-5"><img class="img-fluid" src="assets/img/icons/services-3.svg" alt="..." />
                     <h5 class="my-4">Personal Services</h5>
