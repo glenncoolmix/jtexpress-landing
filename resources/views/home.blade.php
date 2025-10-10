@@ -503,7 +503,7 @@
               <img src="assets/img/illustrations/callback.png" alt="..." />
               <h5 class="text-danger">REQUEST A CALLBACK</h5>
               <h2>We will contact in the shortest time.</h2>
-              <p class="text-muted">Monday to Friday, 9am-10pm.</p>
+              <p class="text-muted">Monday to Saturday, 9am-10pm.</p>
               <div class="text-center">
                 <a href="https://api.whatsapp.com/send?phone={{ env('WHATSAPP_NUMBER') }}&text=Hi, good day!
 
