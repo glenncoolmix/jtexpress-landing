@@ -106,7 +106,7 @@
                     </li>
                     <li class="mb-2"><span class="me-2"><i class="fas fa-circle text-primary" style="font-size:.5rem"></i></span>Real-time parcel tracking
                     </li>
-                    <li class="mb-2"><span class="me-2"><i class="fas fa-circle text-primary" style="font-size:.5rem"></i></span>Guaranteed delivery within 2–4 days
+                    <li class="mb-2"><span class="me-2"><i class="fas fa-circle text-primary" style="font-size:.5rem"></i></span>We offer next day delivery for your convenience.
                     </li>
                   </ul>
                   <div class="text-center my-5">
@@ -503,7 +503,7 @@
               <img src="assets/img/illustrations/callback.png" alt="..." />
               <h5 class="text-danger">REQUEST A CALLBACK</h5>
               <h2>We will contact in the shortest time.</h2>
-              <p class="text-muted">Monday to Friday, 9am-5pm.</p>
+              <p class="text-muted">Monday to Friday, 9am-10pm.</p>
               <div class="text-center">
                 <a href="https://api.whatsapp.com/send?phone={{ env('WHATSAPP_NUMBER') }}&text=Hi, good day!
 
@@ -534,7 +534,7 @@ Thank you very much. Looking forward to your response." class="whatsapp-link" ta
             <div class="col-md-6 col-lg-5 col-xl-4"><img src="assets/img/illustrations/callback.png" alt="..." />
               <h5 class="text-danger">REQUEST A CALLBACK</h5>
               <h2>We will contact in the shortest time.</h2>
-              <p class="text-muted">Monday to Friday, 9am-5pm.</p>
+              <p class="text-muted">Monday to Friday, 9am-10pm.</p>
             </div>
             <div class="col-md-6 col-lg-5 col-xl-4">
               <form class="row">
